@@ -6,12 +6,18 @@
   }
 }
 
-.ico li {
-  display: inline-block;
-  text-decoration: none;
-  padding: 10px;
-  font-size: 20px;
-  margin-top: 30px;
+.ico {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  li {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 30px;
+  }
 }
 
 .info p {
@@ -27,9 +33,14 @@
   margin-bottom: 15px;
 }
 
-.pay img {
-  height: 80%;
-  padding-top: 10px;
-  padding-bottom: 20px;
-  padding-left: 15px;
+.pay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img {
+    height: 80%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+  }
 }
