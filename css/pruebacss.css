@@ -39,6 +39,9 @@ footer {
     grid-area: nav; }
   main {
     grid-area: main; }
+    main .inicio img {
+      width: 80%;
+      height: auto; }
   aside {
     grid-area: aside; }
     aside .cont-iframe {
@@ -70,12 +73,12 @@ footer {
   main {
     grid-area: main; }
     main .serv-tec img {
-      width: 75%;
+      width: 50%;
       height: auto; }
   aside {
     grid-area: aside; }
     aside .video-pc {
-      width: 75%;
+      width: 70%;
       height: auto; }
   footer {
     grid-area: footer; } }
@@ -107,7 +110,7 @@ main {
       position: absolute;
       top: 0;
       left: 0;
-      width: 80%;
+      width: 100%;
       height: 80%; }
 
 footer {
@@ -147,6 +150,12 @@ header h1 {
 .video-pc {
   width: 100%;
   height: auto; }
+
+.video {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
 
 .serv-tec {
   padding: 10px;
