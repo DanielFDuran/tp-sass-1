@@ -8,6 +8,40 @@ header h1 {
   background: #bdbdbade;
   transition: 0.3s; }
 
+.video-pc {
+  width: 100%;
+  height: auto; }
+
+.serv-tec img {
+  width: 80%;
+  height: auto; }
+
+.serv-ul {
+  list-style: none;
+  text-align: center; }
+  .serv-ul li {
+    font-family: "Noto Sans Display", sans-serif;
+    font-size: 15px; }
+
+.title-2 h2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center; }
+
+.contact p {
+  text-align: center; }
+
+.cont-iframe-maps {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden; }
+  .cont-iframe-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+
 .foot {
   background-color: #cdcdcd; }
   .foot h6 {
@@ -17,8 +51,9 @@ header h1 {
 .ico li {
   display: inline-block;
   text-decoration: none;
-  padding: 15px;
-  font-size: 25px; }
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 30px; }
 
 .info p {
   text-align: center;
