@@ -34,6 +34,23 @@ footer {
   grid-area: footer;
 }
 @media screen and (min-width: 768px) {
+  .grid {
+    grid-template-areas:
+      "header"
+      "nav"
+      "main"
+      "aside"
+      "footer";
+  }
+}
+.card-img-img {
+  overflow: hidden;
+  img {
+    transition: all 1.3s ease;
+  }
+  &:hover img {
+    transform: scale(1.2);
+  }
 }
 
 @media screen and (min-width: 1024px) {
