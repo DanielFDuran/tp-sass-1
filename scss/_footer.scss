@@ -44,3 +44,18 @@
     padding-left: 10px;
   }
 }
+
+// mapa
+
+$red-soc: (
+  twitter: #339be0,
+  facebook: #1313de,
+  instagram: #ab3ef4,
+  youtube: #f11919,
+);
+
+@each $red, $color in $red-soc {
+  .red-#{$red} {
+    color: $color;
+  }
+}

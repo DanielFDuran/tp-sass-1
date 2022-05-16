@@ -242,3 +242,15 @@ header h1 {
     padding-top: 10px;
     padding-bottom: 20px;
     padding-left: 10px; }
+
+.red-twitter {
+  color: #339be0; }
+
+.red-facebook {
+  color: #1313de; }
+
+.red-instagram {
+  color: #ab3ef4; }
+
+.red-youtube {
+  color: #f11919; }
