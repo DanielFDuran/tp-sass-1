@@ -1,9 +1,9 @@
 # tp-sass-1
 
-index : agregue favicon
-productos: agregue favicon
-contacto: agregue favicon
-como llegar: agregue favicon
-serv-tecnico: agregue favicon
-insumos: agregue favicon
-periferico: agregue favicon
+index : Agregue favicon - Agregue keywords y description
+productos: Agregue favicon
+contacto: Agregue favicon
+como llegar: Agregue favicon
+serv-tecnico: Agregue favicon
+insumos: Agregue favicon
+periferico: Agregue favicon
