@@ -5,5 +5,5 @@ productos: Agregue favicon
 contacto: Agregue favicon
 como llegar: Agregue favicon
 serv-tecnico: Agregue favicon
-insumos: Agregue favicon
-periferico: Agregue favicon
+insumos: Agregue favicon - Agregue keywords y description
+periferico: Agregue favicon - Agregue keywords y description
