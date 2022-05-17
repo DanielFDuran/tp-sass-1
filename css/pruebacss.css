@@ -1,3 +1,7 @@
+.botton-1, .ucard button {
+  width: 120px;
+  height: 60px; }
+
 .grid {
   display: grid;
   grid-template-areas: "header" "nav" "main" "aside" "footer";
@@ -210,7 +214,7 @@ header h1 {
 .img-prod, .ucard img {
   text-align: center; }
   .img-prod img, .ucard img img {
-    width: 100%;
+    width: 80%;
     height: auto; }
 
 .botton, .ucard a {

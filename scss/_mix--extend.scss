@@ -14,3 +14,11 @@
 }
 
 //mixin
+@mixin botton-size($w, $h) {
+  width: $w;
+  height: $h;
+}
+
+.botton-1 {
+  @include botton-size(120px, 60px);
+}
