@@ -1,0 +1,16 @@
+//extend
+.ucard {
+  @extend .card-prod;
+
+  img {
+    @extend .img-prod;
+  }
+  a {
+    @extend .botton;
+  }
+  button {
+    @extend .botton-1;
+  }
+}
+
+//mixin

@@ -204,6 +204,25 @@ header h1 {
     width: 100%;
     height: 100%; }
 
+.card-prod, .ucard {
+  padding: 16px; }
+
+.img-prod, .ucard img {
+  text-align: center; }
+  .img-prod img, .ucard img img {
+    width: 100%;
+    height: auto; }
+
+.botton, .ucard a {
+  text-align: center;
+  font-family: "Roboto", sans-serif; }
+
+.botton-1, .ucard button {
+  border-radius: 15px;
+  padding: 8px 16px;
+  margin: 8px;
+  background-color: #ecd13acd; }
+
 .foot {
   background-color: #cdcdcd; }
   .foot h6 {

@@ -84,4 +84,26 @@
   }
 }
 
-// page periferico
+// page producto
+.card-prod {
+  padding: 16px;
+}
+.img-prod {
+  text-align: center;
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.botton {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.botton-1 {
+  border-radius: 15px;
+  padding: 8px 16px;
+  margin: 8px;
+  background-color: #ecd13acd;
+}
